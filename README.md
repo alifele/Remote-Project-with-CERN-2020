@@ -1,2 +1,2 @@
 Remote project with 
-CERN with supervision of M.Sammed
+CERN with supervision of M. Sammed
